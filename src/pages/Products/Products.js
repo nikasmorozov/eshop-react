@@ -17,7 +17,7 @@ export default class ProductsPage extends Component {
   render() {
     const { products } = this.state
     return (
-      <div className="container">
+      <div className='container'>
         {products.map(product => (
           <Product key={product.id} product={product} />
         ))}
