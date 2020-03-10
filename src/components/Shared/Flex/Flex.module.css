@@ -22,3 +22,11 @@
 .alignEnd {
   align-items: flex-end;
 }
+
+.noWrap {
+  flex-wrap: nowrap;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}

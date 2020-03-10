@@ -1,0 +1,14 @@
+.buttonWrapper {
+  margin: 0.5rem 0;
+}
+
+.buttonWrapper button {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  text-transform: uppercase;
+  transition: 0.5s;
+  background: teal;
+  color: white;
+  outline: none;
+}
